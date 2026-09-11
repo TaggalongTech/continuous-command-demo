@@ -1,6 +1,6 @@
 # Continuous Command — SuiteWorld demo site
 
-Live at **https://ttg2020.github.io/continuous-command-demo/**
+Live at **https://taggalongtech.github.io/continuous-command-demo/**
 
 A Continuous-branded demo website for SuiteWorld: Continuous Command as the high-volume usage
 rating engine on the NetSuite platform. The landing page is the marketing shell; **See it live**
